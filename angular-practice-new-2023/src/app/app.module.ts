@@ -13,11 +13,9 @@ import { UnrelatedComponent } from './Component-communication/unrelated/unrelate
 import { ContentProjectionComponent } from './Content-projection/content-projection/content-projection.component';
 import { DataBindingComponent } from './Data Binding/data-binding/data-binding.component';
 import { PipesComponent } from './Pipes/pipes/pipes.component';
-import { StructuralDirectivesComponent } from './structural-directives/structural-directives.component';
 import { AttributeDirectivesComponent } from './Directives/attribute-directives/attribute-directives.component';
 import { DependencyInjectionComponent } from './Dependancy Injection/dependency-injection/dependency-injection.component';
 import { StandaloneComponentComponent } from './Standalone components/standalone-component/standalone-component.component';
-import { ChangeDetectionComponent } from './change-detection/change-detection.component';
 import { RoutingContainerComponent } from './Routing/routing-container/routing-container.component';
 import { TemplateDrivenFormsComponent } from './Forms/template-driven-forms/template-driven-forms.component';
 import { ReactiveFormsComponent } from './Forms/reactive-forms/reactive-forms.component';
@@ -39,11 +37,9 @@ import { AnimationsComponent } from './Animations/animations/animations.componen
     ContentProjectionComponent,
     DataBindingComponent,
     PipesComponent,
-    StructuralDirectivesComponent,
     AttributeDirectivesComponent,
     DependencyInjectionComponent,
     StandaloneComponentComponent,
-    ChangeDetectionComponent,
     RoutingContainerComponent,
     TemplateDrivenFormsComponent,
     ReactiveFormsComponent,
